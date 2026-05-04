@@ -1,4 +1,4 @@
-# SMS Spam Detection using Naive Bayes
+# SMS Spam Detection using Naive Bayes algorithm
 
 This project implements a machine learning model to classify SMS messages as **spam** or **ham (not spam)** using the Multinomial Naive Bayes algorithm.
 
